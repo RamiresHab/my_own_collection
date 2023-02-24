@@ -17,3 +17,5 @@ test_role has variables in role/test/role/vars/mail.yml
 ## Modules
 my_own_module is in plugins/modules/my_own_module.py
 It has description in plugins/modules/README.md
+
+## Version 1.0.0
